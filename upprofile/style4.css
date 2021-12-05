@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    font-family: BlinkMacSystemFont, "segoe ui", roboto, oxygen, ubuntu, cantarell, "fira sans", "droid sans", "helvetica neue", Arial, sans-serif;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body{
+    
+        margin: 0;
+        padding: 0;
+        background: #c06d47 ;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        font-family: sans-serif;
+      }
+      .formp {
+
+        width: 570px;
+        height: 350px;
+        margin-top:3%;
+        margin-right:30%;
+        margin-left:31%;
+        padding:45px;
+        border: 5px solid rgb(118, 119, 118);
+        border-radius:5px;
+        display: flex;
+        justify-content:space-between;
+        font-size: 23px;
+        color: rgb(255, 255, 255);
+        
+      }
+
